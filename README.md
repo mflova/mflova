@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Manuel, roboticist with interests in programming and Artificial Intelligence.
+- 🌱 I’m always learning about Python and C++, but recently added some knowledge in VIM and LUA.
+- 💞️ I like collaborating in projects that ease the work of the developpers, by automatizing tasks and linting code.
+- 📫 Feel free to contact me! mflovaa@gmail.com
